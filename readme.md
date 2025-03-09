@@ -1,4 +1,4 @@
-# SEU-CV：广东工业大学 LaTeX 中文简历模板
+# GDUT-CV：广东工业大学 LaTeX 中文简历模板
 
 ![](./docs/CV-preview-1.png)
 
